@@ -5,4 +5,4 @@ nota2 = float(input('Digite a 2° nota: '))
 nota3 = float(input('Digite a 3° nota: '))
 nota4 = float(input('Digite a 4° nota: '))
 
-print('{} {:.2f}'.format('A média das notas digitadas é', (nota1 + nota2 + nota3 + nota4) / 4))
+print(f'A média das notas digitadas é {(nota1 + nota2 + nota3 + nota4) / 4:.2f}')

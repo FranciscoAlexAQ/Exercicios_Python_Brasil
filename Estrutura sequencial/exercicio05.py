@@ -2,4 +2,4 @@
 
 valor_metros = float(input('Digite o valor em metros: '))
 
-print('{} m é igual {:.2f} cm'.format(valor_metros, valor_metros * 100))
+print(f'{valor_metros} m é igual {valor_metros * 100:.2f} cm')

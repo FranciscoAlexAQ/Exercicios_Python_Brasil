@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1338602c-f0ba-4efe-a587-7e7a4af3e9fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura sequencial/exercicio04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura sequencial/exercicio05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio05.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +37,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Estrutura sequencial" />
   </component>
-  <component name="RunManager" selected="Python.exercicio05">
-    <configuration name="exercicio01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exercicio10">
+    <configuration name="exercicio06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="execícios Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,7 +52,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura sequencial/exercicio01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura sequencial/exercicio06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="execícios Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura sequencial/exercicio02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura sequencial/exercicio07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="execícios Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura sequencial/exercicio03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura sequencial/exercicio08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="execícios Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura sequencial/exercicio04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura sequencial/exercicio09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="execícios Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura sequencial/exercicio05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura sequencial/exercicio10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exercicio05" />
-        <item itemvalue="Python.exercicio04" />
-        <item itemvalue="Python.exercicio02" />
-        <item itemvalue="Python.exercicio03" />
-        <item itemvalue="Python.exercicio01" />
+        <item itemvalue="Python.exercicio10" />
+        <item itemvalue="Python.exercicio09" />
+        <item itemvalue="Python.exercicio08" />
+        <item itemvalue="Python.exercicio07" />
+        <item itemvalue="Python.exercicio06" />
       </list>
     </recent_temporary>
   </component>
@@ -169,5 +176,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
