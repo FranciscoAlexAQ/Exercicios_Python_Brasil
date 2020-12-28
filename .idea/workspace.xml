@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1338602c-f0ba-4efe-a587-7e7a4af3e9fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura sequencial/exercicio04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura sequencial/exercicio05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura sequencial/exercicio05.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +31,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Estrutura sequencial" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\execícios Python\Estrutura sequencial" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.exercicio10">
     <configuration name="exercicio06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
